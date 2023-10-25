@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     let imageBeingReplaced
     let squareIdBeingDragged
     let squareIdBeingReplaced
-    let score= 540
+    let score= 0
     
     scoreDisplay.innerHTML = score
 
